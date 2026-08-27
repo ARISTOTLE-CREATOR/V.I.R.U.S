@@ -1,4 +1,4 @@
-# VIRUS — Video-based Information & Real-time Update Service
+# V.I.R.U.S — Video-based Information & Real-time Update Service
 
 > **Live News. One Platform. Real Time.**
 
@@ -10,7 +10,7 @@ The platform focuses on **accessibility, simplicity, and real-time viewing** rat
 
 ---
 
-## 🌍 What is VIRUS?
+## 🌍 What is V.I.R.U.S?
 
 VIRUS provides a centralized interface where users can:
 
@@ -59,7 +59,7 @@ This allows the project to remain:
 
 ---
 
-## 🗺️ How VIRUS Works
+## 🗺️ How V.I.R.U.S Works
 
 ```text
                  VIRUS
