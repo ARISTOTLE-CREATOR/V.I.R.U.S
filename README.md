@@ -104,8 +104,6 @@ We use a standard Markdown table format. To add a channel, simply append a row t
 
 ```
 
-
-
 ## Tech Stack
 
 * **Framework:** [React](https://react.dev/)
