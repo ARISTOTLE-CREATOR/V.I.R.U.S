@@ -24,7 +24,7 @@ This project acts as a modern web interface for that dataset. We strictly adhere
 - **Mainstream Content:** No adult, religious, or political propaganda channels.
 
 The raw channel lists are fetched live from:
-`https://github.com/Free-TV/IPTV/tree/master/lists`
+`https://github.com/Free-TV/IPTV/tree/master/lists` 
 
 ## Getting Started
 
